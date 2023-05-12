@@ -1,1 +1,1 @@
-# toy-java-cardgame-war-java
+# game-java-card-war
